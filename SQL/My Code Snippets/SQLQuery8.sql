@@ -1,0 +1,1 @@
+ALTER DATABASE SQLTutorial MODIFY NAME = SQLTutorial ; 
